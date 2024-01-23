@@ -1,7 +1,7 @@
 # PySaveBackup
 Game save backup tool made with python.
-# Downloads
-You can download the script and the requirements from the source and install it with py -m pip install -r requirements.txt 
+# Requirements
+The script requires python 3.11 and argparse to be installed. You can install it with py -m pip install argparse
 # Usage
 ```
 usage: PySaveBackup [-h] [-l AppName] [-nr NORESTORE]
