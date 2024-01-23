@@ -1,6 +1,7 @@
 # PySaveBackup
-Game save backup tool made with python
-
+Game save backup tool made with python.
+# Downloads
+You can download the script and the requirements from the source and install it with py -m pip install -r requirements.txt 
 # Usage
 ```
 usage: PySaveBackup [-h] [-l AppName] [-nr NORESTORE]
@@ -20,3 +21,5 @@ options:
 ```
 To first set up the program, you'll need to launch it with no arguments to set up the config file and folder locations.
 Then you can use it by adding the -l argument and name of the app that you set earlier. Using it by creating a shortcut is recommended.
+
+
